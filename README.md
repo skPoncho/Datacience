@@ -1,0 +1,24 @@
+> **Data engineering**
+- **Types of data**
+  - Structured
+    - relational db
+    - CSV
+    - tables 
+  - Semi-structured
+    - Json 
+  - Unstructured
+    - key-value
+    - pdf
+- **Concepts**
+  - Data integration
+    - stablish link between operational and analytical services with data sources 
+  - Data transform
+    -ETL 
+  - Data consolidation
+    - integrate from multiple sources to structured
+  - Data pipeline
+    - Activities ETL process to transform 
+  - Data lake
+    - Storage holds data in native raw formas optimized to scale massiva volumes of  data , it could be not structured, structures or unstructured 
+  - Data warehouses
+    - Data engineers design and implement data warehouses , organizes data ir relational tables into a schema to optimize analytical queries. 
