@@ -1,5 +1,11 @@
 > **Data engineering**
 - **Types of data**
+  - links de cursos :
+    - https://learn.microsoft.com/en-us/training/paths/get-started-data-engineering/
+    - https://www.coursera.org/programs/arena-analytics-learning-program-x60fh/specializations/microsoft-azure-dp-900-data-fundamentals?source=search
+    - https://learn.microsoft.com/en-us/azure/synapse-analytics/?form=MG0AV3 **Documentacion**
+    - https://learn.microsoft.com/en-us/training/courses/dp-203t00  
+- **Types of data**
   - Structured
     - relational db
     - CSV
